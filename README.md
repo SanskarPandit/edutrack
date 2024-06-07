@@ -1,8 +1,7 @@
-# React + Vite
+# React(Vite) / Redux
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a app about course details,listing and student dashboard Where it shows which student have enrolled the course and the completion of the course made using redux and react.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run this
+1) npm i
+2) npm run dev for running app
